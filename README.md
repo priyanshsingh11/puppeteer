@@ -17,9 +17,9 @@ This will download Puppeteer AND a bundled Chromium browser (~200MB). You only d
 ## Run the lessons in order
 
 ```bash
-node 1_hello_world.js          # Opens a site, reads a heading, takes a screenshot
-node 2_interact_with_page.js   # Types, clicks, navigates, reads results
-node 3_scrape_data.js          # Scrapes Hacker News top 10 into a JSON file
+node index.js          # Opens a site, reads a heading, takes a screenshot
+node interact.js   # Types, clicks, navigates, reads results
+node scrape.js          # Scrapes Hacker News top 10 into a JSON file
 ```
 
 ## What to do next
